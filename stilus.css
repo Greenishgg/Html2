@@ -1,0 +1,29 @@
+.elso {
+  border: 10px solid rgb(214, 121, 15);
+  background-color: cyan;
+  width: 600px;
+  text-align: left;
+}
+.masodik {
+  border: 5px solid LimeGreen;
+  background-color: plum;
+  width: 610px;
+  color: Khaki;
+}
+.harmadik {
+  background-color: darkgray;
+  width: 620px;
+  color: White;
+}
+.negyedik {
+  border: 3px solid mediumslateblue;
+  background-color: navajowhite;
+  color: darkgray;
+  width: 614px;
+}
+.otodik {
+  border: 2.5px solid yellowgreen;
+  background-color: #cefdce;
+  color: MediumPurple;
+  width: 615px;
+}
